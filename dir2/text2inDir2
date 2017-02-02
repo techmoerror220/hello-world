@@ -1,0 +1,4 @@
+This is text file 2 located in dir2. Dir1 has
+no file in it and does no appear in git status.
+Does dir2 appear in git status given that it has
+this text file in it, i.e., it is populated??
