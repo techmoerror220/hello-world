@@ -1,6 +1,11 @@
-i'm in testing, there you go!
+now i am working on my second local repository where i have cloned the hello-world repo.
 
-This is the new line I am adding now at 8:19 pm from my toshiba laptop
+<<<<<<< HEAD
+This is the new line I am adding now at 7:23 pm from my toshiba laptop
+=======
+This is the new line I am adding now at 7:21 pm from my toshiba laptop
+>>>>>>> 909109f7237119158d9e888ec79d4cd12e9bd698
 
-changes in testing
+and this is a new line to try git diff AND this more 
+>>>>>>> 4743afb7056032ad0d3bb67db5ab9328cec4b8b8
 
